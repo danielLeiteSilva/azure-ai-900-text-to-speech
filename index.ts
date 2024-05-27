@@ -1,3 +1,4 @@
+require("dotenv").config();
 //Libs
 import express, { Express } from 'express';
 //Packages
